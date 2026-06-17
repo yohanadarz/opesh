@@ -1,0 +1,6 @@
+{
+  "name": "Habit Saver",
+  "description": "Track habits and money saved in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
